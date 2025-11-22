@@ -1,0 +1,3 @@
+# Offline Notes App — README
+
+This is a simple offline notes app I built using React Native and Expo...
