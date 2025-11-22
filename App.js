@@ -1,5 +1,4 @@
-// UPDATED: Internship-ready version of the Offline Multi-User Notes App
-// Clean structure, consistent formatting, clearer naming, modular helpers
+
 // Expo (Managed) React Native Project
 
 import React, { useEffect, useState } from 'react';
